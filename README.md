@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **IoT-based automation solutions - Embedded health monitoring systems - Wearable safety devices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShambhaviBansode/Fall-Detection-and-other-vital-wearable-for-elderly.git](https://github.com/ShambhaviBansode/Fall-Detection-and-other-vital-wearable-for-elderly.git)
+- 👨‍💻 All of my projects are available at [https://github.com/ShambhaviBansode/Fall-Detection-and-other-vital-wearable-for-elderly.git](https://github.com/ShambhaviBansode/Fall-Detection-and-other-vital-wearable-for-elderly.git) and (https://github.com/ShambhaviBansode/smart-home-system-esp8266.git)
 
 - 💬 Ask me about **Arduino IDE, Embedded C,C,C++,Microcontrollers**
 
