@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Shambhavi Bansode</h1>
 <h3 align="center">An Electronics & Communication Engineering student .Passionate about Embedded Systems, IoT & Wearable Tech</h3>
-<img align="right" alt="Iot"width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*smWqPrnllHrSS8mMjKLuhA.gif">
+<img align="right" alt="Iot"width="250" src="https://miro.medium.com/v2/resize:fit:1400/1*smWqPrnllHrSS8mMjKLuhA.gif">
 
 - 🔭 I’m currently working on **S.A.F.E.R. – Smart Assistive Framework for Emergency Resilience**
 
