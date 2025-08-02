@@ -1,4 +1,4 @@
-![logo](https://github.com/ShambhaviBansode/ShambhaviBansode/blob/main/Git_banner.jpg)
+![logo](https://github.com/ShambhaviBansode/ShambhaviBansode/blob/main/Git_banner.png)
 
 <h1 align="center">Hello 👋, I'm Shambhavi Bansode</h1>
 <h3 align="center">An Electronics & Communication Engineering student .Passionate about Embedded Systems, IoT & Wearable Tech</h3>
