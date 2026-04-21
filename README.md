@@ -9,17 +9,19 @@
 
 - 🌱 I’m currently learning **Verilog HDL, FPGA Prototyping, Digital Design, and Verification Fundamentals**
 
-- 👯 I’m looking to collaborate on **ASIC/FPGA projects, digital system design, verification projects, and hardware automation solutions**
+- 👯 I’m looking to collaborate on **FPGA projects, digital system design, verification projects, and hardware automation solutions**
 
 - 👨‍💻 My projects are available at  
 [Fall Detection Wearable System](https://github.com/ShambhaviBansode/Fall-Detection-and-other-vital-wearable-for-elderly.git)  
 [Smart Home Automation System](https://github.com/ShambhaviBansode/smart-home-system-esp8266.git)
+[Elevator Controller (Verilog)](https://github.com/ShambhaviBansode/elevator-controller-verilog)
+[Quiz Application](https://github.com/ShambhaviBansode/Quiz-project-3)
 
 - 💬 Ask me about **Verilog HDL, Digital Electronics, FPGA, Embedded C, C, C++, Microcontrollers, and IoT Systems**
 
 - 📫 How to reach me **shambhavibansode@gmail.com**
 
-- ⚡ Fun fact **I love building intelligent hardware systems that solve real-world problems — from smart devices to digital logic designs. Also, I can debug circuits faster than I can cook 🍳😂**
+- ⚡ Fun fact **I love building intelligent hardware systems that solve real-world problems — from smart devices to digital logic designs. Also, I can debug circuits better than I can cook 🍳😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
