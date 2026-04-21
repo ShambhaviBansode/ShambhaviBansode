@@ -1,4 +1,3 @@
-![logo](https://github.com/ShambhaviBansode/ShambhaviBansode/blob/main/Git_banner.png)
 
 <h1 align="center">Hello 👋, I'm Shambhavi Bansode</h1>
 <h3 align="center">An Electronics & Communication Engineering student passionate about VLSI Design, Digital Systems, FPGA Development, and Embedded Technology</h3>
