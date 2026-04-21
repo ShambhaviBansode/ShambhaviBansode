@@ -10,10 +10,14 @@
 
 - 👯 I’m looking to collaborate on **FPGA projects, digital system design, verification projects, and hardware automation solutions**
 
-- 👨‍💻 My projects are available at  
-[Fall Detection Wearable System](https://github.com/ShambhaviBansode/Fall-Detection-and-other-vital-wearable-for-elderly.git)  
-[Smart Home Automation System](https://github.com/ShambhaviBansode/smart-home-system-esp8266.git)
-[Elevator Controller (Verilog)](https://github.com/ShambhaviBansode/elevator-controller-verilog.git)
+- 👨‍💻 My projects are available at<br><br>
+
+[Fall Detection Wearable System](https://github.com/ShambhaviBansode/Fall-Detection-and-other-vital-wearable-for-elderly.git)<br><br>
+
+[Smart Home Automation System](https://github.com/ShambhaviBansode/smart-home-system-esp8266.git)<br><br>
+
+[Elevator Controller (Verilog)](https://github.com/ShambhaviBansode/elevator-controller-verilog.git)<br><br>
+
 [Quiz Application](https://github.com/ShambhaviBansode/Quiz-project-3.git)
 
 - 💬 Ask me about **Verilog HDL, Digital Electronics, FPGA, Embedded C, C, C++, Microcontrollers, and IoT Systems**
@@ -50,7 +54,6 @@
 </a>
 
 <a href="https://www.xilinx.com/" target="_blank" rel="noreferrer">
-<img src="https://in.images.search.yahoo.com/search/images;_ylt=Awr1Qgy5bOdpJwIA4Qe7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E210IN0G0&p=xilinx+logo+link&fr=mcafee&th=123&tw=474&imgurl=https%3A%2F%2Flogodix.com%2Flogo%2F700422.png&rurl=https%3A%2F%2Flogodix.com%2Fxilinx&size=19KB&name=Xilinx+Logo+-+LogoDix&oid=2&h=522&w=2000&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.W-Ah8Mbm1s49GcwlS9edqAHaB7%3Fpid%3DApi&tt=Xilinx+Logo+-+LogoDix&sigr=rSleMLl6r8BD&sigit=d_zQSne_uEJ6&sigi=RrRNtuu1Hd02&sign=bSNMdgXqnbpi&sigt=bSNMdgXqnbpi" alt="xilinx" width="60" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Xilinx_logo.svg" alt="xilinx" width="60" height="40"/>
 </a>
-
 </p>
