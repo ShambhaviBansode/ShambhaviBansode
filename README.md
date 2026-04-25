@@ -1,14 +1,16 @@
 ![logo](https://github.com/ShambhaviBansode/ShambhaviBansode/blob/77cce4c4d54c30bfbf7e5f2022b42d1e0b30d3a6/and%20Sparkle!%20(1).png)
+
 <h1 align="center">Hello 👋, I'm Shambhavi Bansode</h1>
-<h3 align="center">An Electronics & Communication Engineering student passionate about VLSI Design, Digital Systems, FPGA Development, and Embedded Technology</h3>
 
-<img align="right" alt="VLSI" width="250" src="https://miro.medium.com/v2/resize:fit:1400/1*smWqPrnllHrSS8mMjKLuhA.gif">
+<h3 align="center">An Electronics & Communication Engineering student passionate about IoT Systems, Wireless Technologies, Embedded Systems, and Smart Connected Devices</h3>
 
-- 🔭 I’m currently working on **Verilog-based digital design projects and hardware system implementations**
+<img align="right" alt="IoT" width="250" src="https://miro.medium.com/v2/resize:fit:1400/1*smWqPrnllHrSS8mMjKLuhA.gif">
 
-- 🌱 I’m currently learning **Verilog HDL, FPGA Prototyping, Digital Design, and Verification Fundamentals**
+- 🔭 I’m currently working on **IoT-based embedded projects, smart automation systems, and wireless sensor applications**
 
-- 👯 I’m looking to collaborate on **FPGA projects, digital system design, verification projects, and hardware automation solutions**
+- 🌱 I’m currently learning **Wireless Communication Basics, IoT Protocols, Embedded Systems, Verilog HDL, and FPGA Fundamentals**
+
+- 👯 I’m looking to collaborate on **IoT projects, wireless communication systems, embedded solutions, and smart automation applications**
 
 - 👨‍💻 My projects are available at<br><br>
 
@@ -20,13 +22,14 @@
 
 [Quiz Application](https://github.com/ShambhaviBansode/Quiz-project-3.git)
 
-- 💬 Ask me about **Verilog HDL, Digital Electronics, FPGA, Embedded C, C, C++, Microcontrollers, and IoT Systems**
+- 💬 Ask me about **ESP32, ESP8266, IoT Systems, Sensor Interfacing, Embedded C, Wireless Communication Basics, Verilog HDL, and Digital Electronics**
 
 - 📫 How to reach me **shambhavibansode@gmail.com**
 
-- ⚡ Fun fact **I love building intelligent hardware systems that solve real-world problems — from smart devices to digital logic designs. Also, I can debug circuits better than I can cook 🍳😂**
+- ⚡ Fun fact **I enjoy building smart connected systems that solve real-world problems — from wearable health devices to automated homes 🚀**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/shambhavi-bansode-35bb77297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shambhavi bansode" height="30" width="40" />
@@ -53,7 +56,12 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
 
+<a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Espressif_Logo.svg" alt="esp32" width="50" height="40"/>
+</a>
+
 <a href="https://www.xilinx.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Xilinx_logo.svg" alt="xilinx" width="60" height="40"/>
 </a>
+
 </p>
