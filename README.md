@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **IoT-based embedded projects, smart automation systems, and wireless sensor applications**
 
-- 🌱 I’m currently learning **Wireless Communication Basics, IoT Protocols, Embedded Systems, Verilog HDL, and FPGA Fundamentals**
+- 🌱 I’m currently learning **Wireless Communication Basics, IoT Protocols, Verilog HDL, and FPGA Fundamentals**
 
 - 👯 I’m looking to collaborate on **IoT projects, wireless communication systems, embedded solutions, and smart automation applications**
 
@@ -56,9 +56,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
 
-<a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Espressif_Logo.svg" alt="esp32" width="50" height="40"/>
-</a>
 
 <a href="https://www.xilinx.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Xilinx_logo.svg" alt="xilinx" width="60" height="40"/>
