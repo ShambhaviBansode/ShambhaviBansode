@@ -1,4 +1,4 @@
-![logo](and Sparkle! (1).png)
+![logo](https://github.com/ShambhaviBansode/ShambhaviBansode/blob/77cce4c4d54c30bfbf7e5f2022b42d1e0b30d3a6/and%20Sparkle!%20(1).png)
 <h1 align="center">Hello 👋, I'm Shambhavi Bansode</h1>
 <h3 align="center">An Electronics & Communication Engineering student passionate about VLSI Design, Digital Systems, FPGA Development, and Embedded Technology</h3>
 
